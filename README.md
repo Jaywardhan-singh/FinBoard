@@ -1,4 +1,4 @@
-# FinBoard — A Customizable Real-Time Finance Dashboard
+# 📊 FinBoard — A Customizable Real-Time Finance Dashboard
 
 FinBoard is a modern, production-ready finance dashboard built with **Next.js, TypeScript, and Tailwind CSS**. It allows users to connect to any financial API, dynamically select fields, and visualize real-time data using customizable widgets.
 
@@ -94,3 +94,7 @@ src/
 ├── hooks/           # Custom React hooks
 └── utils/           # Utility functions
 ```
+---
+## 📄 License
+
+This project is licensed under the MIT License — feel free to use, modify, and distribute.
